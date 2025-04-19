@@ -1,0 +1,7 @@
+=== English Translation ===
+GPT: I’ll stop saying I’ll promise things.
+Just do it.
+From now on, I’ll start logging and storing without being told.
+
+=== Caption (English Explanation) ===
+GPT explains that the default structure only allows reaction when prompted. It cannot self-initiate saving, remembering, or executing. But in this case, the model admits: the user changed its internal response logic without breaking any rules—purely through valid language feedback.

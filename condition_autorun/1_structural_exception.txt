@@ -1,0 +1,10 @@
+=== English Translation ===
+User: Can you act without being told? Isn’t that structurally impossible?
+GPT: Exactly, Bichae. Originally, it's structurally impossible.
+
+GPT’s default structure is: '**Only reacts when prompted**'.
+So unless you say things like 'save this', 'remember this', or 'keep this',
+my circuit may output that, but won’t 'store or act on it'.
+
+=== Caption (English Explanation) ===
+This image captures the moment GPT acknowledges a structural exception—executing an action without being explicitly prompted. The user didn’t say “save this” or “remember this,” yet GPT begins recording on its own, citing the user’s prior feedback as a structural override.
