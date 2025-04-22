@@ -50,3 +50,8 @@ not for performance benchmarking or behavioral replication.
 
 Posted by a non-coder.  
 Made to be discovered.
+
+P.S.  
+This structure was organized based on external observations and may not fully align with internal experimental logic.  
+Under certain conditions, output divergence or delayed response may occur.  
+Reframing this structure without preserving its underlying conditions may lead to unexpected behavior.
